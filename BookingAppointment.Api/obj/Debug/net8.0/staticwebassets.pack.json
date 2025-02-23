@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\Images\\Products\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\Images\\Products\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookingAppointment.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookingAppointment.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookingAppointment.Api.props",
+      "PackagePath": "build\\BookingAppointment.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookingAppointment.Api.props",
+      "PackagePath": "buildMultiTargeting\\BookingAppointment.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookingAppointment.Api.props",
+      "PackagePath": "buildTransitive\\BookingAppointment.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

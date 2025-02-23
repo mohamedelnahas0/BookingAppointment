@@ -1,0 +1,2 @@
+wwwroot\Images\Products\1.jpg
+wwwroot\Images\Products\2.jpg

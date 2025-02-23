@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Images/Products/1.3zpn3ajddo.jpg",
+      "AssetFile": "Images/Products/1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1016910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:04:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3zpn3ajddo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/1.jpg",
+      "AssetFile": "Images/Products/1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1016910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:04:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/2.jpg",
+      "AssetFile": "Images/Products/2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2788655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQu9pTtdOD+hZNy47WIQHs7de+tLI8IwF5MXRuzNn8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:03:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQu9pTtdOD+hZNy47WIQHs7de+tLI8IwF5MXRuzNn8k="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/2.zsz4mo34i1.jpg",
+      "AssetFile": "Images/Products/2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2788655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQu9pTtdOD+hZNy47WIQHs7de+tLI8IwF5MXRuzNn8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:03:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zsz4mo34i1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQu9pTtdOD+hZNy47WIQHs7de+tLI8IwF5MXRuzNn8k="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/2.jpg"
+        }
+      ]
+    }
+  ]
+}

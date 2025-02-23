@@ -1,0 +1,11 @@
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\bin\Debug\net8.0\BookingAppointment.Domain.deps.json
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\bin\Debug\net8.0\BookingAppointment.Domain.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\bin\Debug\net8.0\BookingAppointment.Domain.pdb
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\obj\Debug\net8.0\BookingAppointment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\obj\Debug\net8.0\BookingAppointment.Domain.AssemblyInfoInputs.cache
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\obj\Debug\net8.0\BookingAppointment.Domain.AssemblyInfo.cs
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\obj\Debug\net8.0\BookingAppointment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\obj\Debug\net8.0\BookingAppointment.Domain.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\obj\Debug\net8.0\refint\BookingAppointment.Domain.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\obj\Debug\net8.0\BookingAppointment.Domain.pdb
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Domain\obj\Debug\net8.0\ref\BookingAppointment.Domain.dll

@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BookingAppointment.Api/Images/Products/1.3zpn3ajddo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3zpn3ajddo"},{"Name":"integrity","Value":"sha256-wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg="},{"Name":"label","Value":"_content/BookingAppointment.Api/Images/Products/1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1016910"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 05:04:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookingAppointment.Api/Images/Products/1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1016910"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 05:04:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookingAppointment.Api/Images/Products/2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vQu9pTtdOD\u002BhZNy47WIQHs7de\u002BtLI8IwF5MXRuzNn8k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2788655"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vQu9pTtdOD\u002BhZNy47WIQHs7de\u002BtLI8IwF5MXRuzNn8k=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 05:03:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookingAppointment.Api/Images/Products/2.zsz4mo34i1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zsz4mo34i1"},{"Name":"integrity","Value":"sha256-vQu9pTtdOD\u002BhZNy47WIQHs7de\u002BtLI8IwF5MXRuzNn8k="},{"Name":"label","Value":"_content/BookingAppointment.Api/Images/Products/2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2788655"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vQu9pTtdOD\u002BhZNy47WIQHs7de\u002BtLI8IwF5MXRuzNn8k=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 05:03:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\bin\Debug\net8.0\BookingAppointment.Application.deps.json
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\bin\Debug\net8.0\BookingAppointment.Application.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\bin\Debug\net8.0\BookingAppointment.Application.pdb
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\bin\Debug\net8.0\BookingAppointment.Domain.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\bin\Debug\net8.0\BookingAppointment.Domain.pdb
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\obj\Debug\net8.0\BookingAppointment.Application.csproj.AssemblyReference.cache
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\obj\Debug\net8.0\BookingAppointment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\obj\Debug\net8.0\BookingAppointment.Application.AssemblyInfoInputs.cache
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\obj\Debug\net8.0\BookingAppointment.Application.AssemblyInfo.cs
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\obj\Debug\net8.0\BookingAppointment.Application.csproj.CoreCompileInputs.cache
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\obj\Debug\net8.0\BookingA.650CBEDC.Up2Date
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\obj\Debug\net8.0\BookingAppointment.Application.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\obj\Debug\net8.0\refint\BookingAppointment.Application.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\obj\Debug\net8.0\BookingAppointment.Application.pdb
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Application\obj\Debug\net8.0\ref\BookingAppointment.Application.dll

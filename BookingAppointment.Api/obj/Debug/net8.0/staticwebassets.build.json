@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "NWNjjz/lf3hbqP/e8inyB2whtc0asSjlEOI5/ZZqMD4=",
+  "Source": "BookingAppointment.Api",
+  "BasePath": "_content/BookingAppointment.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookingAppointment.Api\\wwwroot",
+      "Source": "BookingAppointment.Api",
+      "ContentRoot": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\",
+      "BasePath": "_content/BookingAppointment.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\Images\\Products\\1.jpg",
+      "SourceId": "BookingAppointment.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\",
+      "BasePath": "_content/BookingAppointment.Api",
+      "RelativePath": "Images/Products/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3zpn3ajddo",
+      "Integrity": "wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\Images\\Products\\2.jpg",
+      "SourceId": "BookingAppointment.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\",
+      "BasePath": "_content/BookingAppointment.Api",
+      "RelativePath": "Images/Products/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zsz4mo34i1",
+      "Integrity": "vQu9pTtdOD+hZNy47WIQHs7de+tLI8IwF5MXRuzNn8k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\2.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/Products/1.3zpn3ajddo.jpg",
+      "AssetFile": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\Images\\Products\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1016910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:04:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3zpn3ajddo"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/1.jpg",
+      "AssetFile": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\Images\\Products\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1016910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:04:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wWGDCPbRleXg3OQFD2MLr70VP7EFS9Eo/bVGBYdNxOg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/2.jpg",
+      "AssetFile": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\Images\\Products\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2788655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQu9pTtdOD+hZNy47WIQHs7de+tLI8IwF5MXRuzNn8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:03:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQu9pTtdOD+hZNy47WIQHs7de+tLI8IwF5MXRuzNn8k="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/2.zsz4mo34i1.jpg",
+      "AssetFile": "C:\\Users\\xxx68\\source\\repos\\BookingAppointment\\BookingAppointment.Api\\wwwroot\\Images\\Products\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2788655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQu9pTtdOD+hZNy47WIQHs7de+tLI8IwF5MXRuzNn8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:03:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zsz4mo34i1"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQu9pTtdOD+hZNy47WIQHs7de+tLI8IwF5MXRuzNn8k="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\bin\Debug\net8.0\BookingAppointment.Infrastructure.deps.json
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\bin\Debug\net8.0\BookingAppointment.Infrastructure.runtimeconfig.json
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\bin\Debug\net8.0\BookingAppointment.Infrastructure.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\bin\Debug\net8.0\BookingAppointment.Infrastructure.pdb
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\bin\Debug\net8.0\BookingAppointment.Domain.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\bin\Debug\net8.0\BookingAppointment.Domain.pdb
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\BookingAppointment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\BookingAppointment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\BookingAppointment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\BookingAppointment.Infrastructure.AssemblyInfo.cs
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\BookingAppointment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\BookingA.063DC80B.Up2Date
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\BookingAppointment.Infrastructure.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\refint\BookingAppointment.Infrastructure.dll
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\BookingAppointment.Infrastructure.pdb
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\BookingAppointment.Infrastructure.genruntimeconfig.cache
+C:\Users\xxx68\source\repos\BookingAppointment\BookingAppointment.Infrastructure\obj\Debug\net8.0\ref\BookingAppointment.Infrastructure.dll
