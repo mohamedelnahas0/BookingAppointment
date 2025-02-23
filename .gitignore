@@ -1,19 +1,8 @@
-# Ignore Visual Studio specific files
 .vs/
-*.user
-*.suo
-*.vsidx
-
-# Ignore build artifacts
 bin/
 obj/
+*.user
+*.suo
 *.cache
 *.log
-*.pdb
-*.tmp
-*.bak
-
-# Ignore NuGet packages
-*.nupkg
-packages/
-project.lock.json
+*.vsidx
